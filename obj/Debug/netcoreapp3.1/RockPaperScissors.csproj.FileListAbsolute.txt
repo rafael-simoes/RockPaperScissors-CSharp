@@ -1,0 +1,11 @@
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csprojAssemblyReference.cache
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+Z:\User\Documents\GitHub\MVC\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
